@@ -76,10 +76,3 @@ To run any of the scripts or projects:
 
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template based on the specifics of your projects and learning goals!
